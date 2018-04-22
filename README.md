@@ -1,4 +1,8 @@
 # Weight-my-Bees
+
+3rd Year Individual Project for the School of Electrical and Electronic Engineering at the University of Manchester
+by Viktor Pankov 
+
 Beehive weight measuring LabVIEW software developed for the NI myRIO
 
 The software was developed using LabVIEW 2017 Full Development System.
